@@ -11,10 +11,10 @@ Descripción La prueba tiene como objetivo desarrollar una analítica sobre un d
 Los datos de acceso a la base de datos son los siguientes (puedes explorar este mismo repositorio en otra herramienta como DBeaver)
 
 Facilitamos acceso de solo lectura a la base de datos:
-* Usuario: postgres
-* Contraseña: password
-* DB name: dbneoland
-* Endpoint: thebridge-interview-dbsql.co4whz3w2rtn.us-east-1.rds.amazonaws.com
+* Usuario:  postgres@thebridgechallenge
+* Contraseña: TheBridge2023
+* DB name: postgres
+* Endpoint: thebridgechallenge.postgres.database.azure.com
 
 La prueba debe desarrollarse con Python 3. Puedes utilizar todas las librerías que te resulte necesario, por ejemplo pandas, plotly/bokeh o SQLAlchemy.
 
