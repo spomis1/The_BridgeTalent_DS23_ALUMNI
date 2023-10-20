@@ -392,3 +392,5 @@ creds.json
 
 # Base de datos
 *.db
+
+#*.txt

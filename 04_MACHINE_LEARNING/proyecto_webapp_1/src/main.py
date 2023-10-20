@@ -16,8 +16,8 @@ PROJECT_ROOT = os.path.abspath(os.path.join(
                   os.path.dirname(__file__), 
                   os.pardir))
 
-print(PROJECT_ROOT)
 
+print(PROJECT_ROOT)
 data_folder = (PROJECT_ROOT + "\\" + "dataset")
 print(data_folder)
 
